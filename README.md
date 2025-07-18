@@ -12,10 +12,12 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yadav-850833259/)  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Abhishekcsds)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2300f.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yadav-850833259/) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Abhishekcsds) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2300f.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekyadav_174)
+
 
 ---
 
