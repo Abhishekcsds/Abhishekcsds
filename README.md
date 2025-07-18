@@ -4,7 +4,7 @@
 - 🔭 Currently working on **Web Development** and **Machine Learning Projects**
 - 🌱 Learning **React.js**, **Node.js**, and sharpening my **DSA** skills
 - 👨‍🎓 B.Tech CSE Student @ GL Bajaj Institute of Technology and Management (CGPA: 8.38)
-- 💬 Ask me about **JavaScript, C++, Java, and Problem Solving**
+- 💬 Ask me about **JavaScript,Java, and Problem Solving**
 - 🏆 Winner of Startup Idea Competition 2024 (Project: PrithWe)
 - 📫 How to reach me: [ay228762@gmail.com](mailto:ay228762@gmail.com)  
 - 📱 Phone: +91-8382802806  
